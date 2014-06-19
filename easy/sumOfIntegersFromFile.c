@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 
+
 int toInt(int c){
   int val=c-'0';
   return val;
