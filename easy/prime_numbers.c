@@ -1,3 +1,4 @@
+//completed wednesday june 18th, 10pm
 #include <stdio.h>
 
 #define MAX_NUMBERS 1000
@@ -41,6 +42,7 @@ int main(){
   }
 
 printf ("%d",sum);
+
 return 0;
 
 }
